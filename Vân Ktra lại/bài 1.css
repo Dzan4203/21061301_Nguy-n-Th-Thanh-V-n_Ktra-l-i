@@ -1,0 +1,60 @@
+h2{
+    font-famity: Arial;
+      font-size: 35px;
+      text-align: center;
+  }
+  body{
+    justify-content: center;
+     background-image: url('https://cdn.glitch.global/5a52493d-bd76-4df4-865a-2bc332f5c72c/istockphoto-1496150210-612x612.jpg?v=1714877877184'); 
+     background-size: cover;
+  }
+  #container01{
+  margin-top:50px;
+  width: 1200px;
+  height:550px;
+  float: none;
+  background-color:none;
+  padding:10px;
+  margin-left:15px;
+  margin-bottom: 40px;
+   background-color: rgba(255, 255, 255, 0.4);
+  border-radius:7px;
+  }
+  #left {
+  width: 550px;
+  float: left;
+  background-color:none;
+  margin-left:60px;
+  }
+  #right {
+  width: 550px;
+  float: right;
+  background-color:none;
+  }
+  #right img{
+  width: 85%;
+  height: 50%;
+  object-fit: cover; 
+  margin-top:40px;
+  margin-left:30px;
+  }
+  button{
+  background-color:#FF6699;
+  border-color:#FF6699;
+  color:white;
+  padding:5px 5px;
+  border-radius:4px;
+  }
+  button:hover {
+  background-color:#FF00FF;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding:10px 20px
+  }
+  input{
+    padding:5px 8px
+    
+  }
